@@ -1,0 +1,14 @@
+{
+  "name": "Memory Vault",
+  "description": "A place to store memories",
+  "authors": [
+    {
+      "identifier": "Peter Newell <petersgrandadventure@gmail.com>",
+      "public_key_source": "",
+      "signature": ""
+    }
+  ],
+  "version": "0.1.0",
+  "dht": {},
+  "properties": null
+}
